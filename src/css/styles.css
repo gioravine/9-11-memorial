@@ -1,0 +1,114 @@
+html {
+    font-family: 'Poppins', sans-serif;    
+    background-color: rgb(0, 0, 0);
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+.container {   
+
+}
+.caption{
+  color: #5a5a5a;
+padding-bottom: 50px;}
+
+.highlight-img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-title {
+    font-family: 'Bebas Neue', sans-serif;
+        font-size: 200px;
+        color: #f9f9f9;
+        margin: auto;
+        text-align: center;
+        margin-bottom: 0%;
+        text-shadow: 10px 10px 30px rgba(0, 0, 0, 0.448);
+}
+
+.head-name {
+  background: rgb(63,94,251);
+  background: radial-gradient(circle, rgba(63,94,251,1) 12%, rgba(252,70,107,1) 66%, rgba(251,195,63,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}  
+
+.head-name  {
+  font-family: 'Bebas Neue', sans-serif;    
+  font-size: 50px;
+}
+
+.important{
+  color: yellow;
+}
+.paragraph{
+  margin: auto;
+  text-align: center;
+  color: #f9f9f9;
+  text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.784);
+}
+
+.header{
+text-align: center;
+color: #f9f9f9;
+}
+
+.bio-container{
+  padding: 100px;
+  text-align: justify;
+  color: #f9f9f9;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.questions-container{
+  padding: 100px;
+  text-align: justify;
+  color: #f9f9f9;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.quote-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 12%, rgba(252,70,107,1) 66%, rgba(251,195,63,1) 100%);
+    color: #f9f9f9;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  cite {
+    font-style: italic;
+    margin-top: 10px;
+  }
+
+  .fonte{
+    text-align: center;
+    color: #f9f9f9;
+  }
+
+  .likes{
+    font-family: 'Bebas Neue', sans-serif;    
+    font-size: 50px;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 12%, rgba(252,70,107,1) 66%, rgba(251,195,63,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-bottom: 200px;
+  
+  }
+.button-link{
+  color:  rgba(252,70,107,1);
+}
+
+.boyzao{
+  max-width: 100%;
+  height: auto;
+  padding: auto;
+}
